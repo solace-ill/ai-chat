@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "turing-cell-492705-r1",
+  "private_key_id": "32c0cc5fb73f981c01ef79d17d56eacb159f0310",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQClPowxIXP/61lb\nkiDCLGFt45qwTvmokye/cxzHHmiZjV2++wqiQgkmTPtcQtSDXZypQNDeK8SJYpx6\n7tYMfmRBhmqb+CQ8Fh+4K7PLL7Qzu+Vh5q/N7/5IS+wICkGsA2zN+1nP6ATudD+H\njAL01ui4CQBByCpCsVxLHx8NqNc4BeTpSyOiFMTSGpQXsBsYgjPeJ+Uz5ojWyoAg\nrzn6Dd7v/zZf/jtB/F/oEVtuLhokzMB7a1tEn5JvFXJzrX/VcTuq3wHdecRyBD0Z\nuVIlmoc/wdc3nV/gF6tR6g+LgeA3pQL+W2zIWR5LRz+sJm82Cfep7LJvG8zohTu+\nGIFvaEv9AgMBAAECgf8F9b7KNIwSizN2zxAPvUTrPb26JrIZL3TTwymGaJu9Rx1V\nD+HqB4LWDRbU9ZVIQzQ2ynNztptuvdxocwxmvj6LGmAt4aIpkW1m7eUffsvwricV\nMW10WIIcBrA5UV9hXDZbHch0bpa2KIZWysSjIQ37reSciNbWtLKryYwsLIhiiI6R\nHYBlmDXXPjU9HC1WP6XjokPeZ8Vz3KhxqWyQDehN76ulIXYmxE4ss1bjZ1vKgcPB\nQdkWzELBmnBEdB8RtP2TvOEwi6lniT46E0gM2BcAgd1Z5PR7xpr1tuNQbG4u1v76\nfACR4Y/Hijg91Z62TwJ2GzxuJCj0DXlOgdAL4WECgYEA05ZbH2tJ5ZhZKoone88o\nbWS+4uIC+Q7rs+dweWGtqgbAatTBchoaIicks0FwL5Tug2+NNjgCiwFnTIEFGick\n7gvPE6rx5f3U8d7hgDesMndopEBfze0Y75tre/t9JGGzycr4oIx6BxPzIlY1lvxz\ntzQsUQ52woIPBCOeIz2VYEkCgYEAx+3zYsKwI/vTunnuN0eSV58mLJjB08x0ol6R\nBLpAZFGBeRCndrjeZSCP7Jx70Iq3W0ics/hbsF8dO1yOQ9YUFdgEeO7IlGeHvQYM\nWCAf3pn5OY4yGYXo+9Nxegb4Nid2ki0sMykXRg9ViLdZoAWC8ExnosHJRcN6TEkZ\nahEYNhUCgYAT/1fpZkh7rKRwwtHsf63AeQ8Zfmbthx17yVn1/udc9HpnHmiSEil6\nJNzxHDQwKxFH1tkv0Kdc3+sVbfQ/foec//y4TSXDqPPhUEFbzuc1dder/nGPkuMS\nckv8Uc6IC7vkTIynD9/Qn3ARRLiX5pBBNmsh1g4fYA9vQraFeiKOEQKBgB3lbyet\nhTlcRuTzprONeEyx97tjfFh3kllVWsoiL87QgVPhMamHK3pjzCHNpJYiqBh2Wzhu\nQwe0sWJXDM8IDCjYDJMo4cWPVbTmWqIy65EV5Ta+FK/MXnKJw8ZDlIpEjG5/YsSj\nuF85m8i94iETsejNBBJKeBZ+jKMrqyk5NS2hAoGBANBjgPkPJJVziMa9kV8bJJdL\n3uP3ictBWPlOC33GD7p4MEvZBa2uaEFRpTfYP/daUh+XKeCNwmAL29THCvvocPlx\nupZ+GwYJXBX4/jJHG122BwJlnlDhgU6aNytKvRtIDQYvAv52REpr5pC+K+On+dC/\nr4hD/aJuBdQeawRoIhSo\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-actions-deployer@turing-cell-492705-r1.iam.gserviceaccount.com",
+  "client_id": "103073423898508204559",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-actions-deployer%40turing-cell-492705-r1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
