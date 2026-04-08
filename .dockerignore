@@ -1,0 +1,27 @@
+# Dependencies
+node_modules
+
+# Build output
+.next
+
+# Environment files (injected at runtime)
+.env*.local
+.env
+
+# Version control
+.git
+.gitignore
+
+# Dev / editor
+.vscode
+.idea
+*.log
+
+# Docs
+README.md
+TODO.md
+CLAUDE.md
+AGENTS.md
+
+# Test artifacts
+coverage
